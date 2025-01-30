@@ -36,6 +36,9 @@ Hi! I'm a passionate developer with a love for creating robust web applications 
 - Real-time messaging built with **Socket.io**.
 - Features secure JWT-based user authentication.
 
+### ✅ [ProjectGestionando] - Task Management Web App
+- MERN stack app with user authentication using **JWT** and **Bcrypt**.
+- Deployed on **Vercel**, includes Redux Toolkit for state management.
 ---
 
 ## 🎮 Gaming Hobby
