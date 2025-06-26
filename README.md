@@ -16,7 +16,7 @@ Hi! I'm a passionate developer with a love for creating robust web applications 
 - **Languages**: JavaScript, HTML, CSS.  
 - **Frontend**: React, Redux Toolkit, Bootstrap  
 - **Backend**: Node.js, Express.js  
-- **Database**: MongoDB, Mongoose  
+- **Database**: MongoDB, Mongoose, PostgreSQL
 - **Authentication**: JWT, Bcrypt  
 - **Tools & Other Skills**: Git, Vercel, Socket.io  
 
