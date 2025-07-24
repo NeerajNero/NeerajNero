@@ -14,8 +14,8 @@ Hi! I'm a passionate developer with a love for creating robust web applications 
 ## 🛠️ Tech Stack
 
 - **Languages**: JavaScript, HTML, CSS.  
-- **Frontend**: React, Redux Toolkit, Bootstrap  
-- **Backend**: Node.js, Express.js  
+- **Frontend**: NextJs, ReactJs, Redux Toolkit, Bootstrap  
+- **Backend**: Node.js, Express.js, Nestjs  
 - **Database**: MongoDB, Mongoose, PostgreSQL
 - **Authentication**: JWT, Bcrypt  
 - **Tools & Other Skills**: Git, Vercel, Socket.io  
