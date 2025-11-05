@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NeerajNero currently working at Geekyants | Software Engineer 1 | Currently learning Nextjs and SQL
+- 👋 Hi, I’m @NeerajNero currently working at Geekyants | Software Engineer 1 | Currently learning Nextjs, NestJs and AI engineering. 
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on any projects related to MERN Stack
