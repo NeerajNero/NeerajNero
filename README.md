@@ -1,59 +1,181 @@
-- 👋 Hi, I’m @NeerajNero currently working at Geekyants | Software Engineer 1 | Currently learning Nextjs, NestJs and AI engineering. 
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on any projects related to MERN Stack
+# 💻 Neeraj Sharma
 
-# 💻 [Neeraj Sharma]
-
-🌟 **Full Stack Developer | MERN Stack Enthusiast | Gamer**  
-
-Hi! I'm a passionate developer with a love for creating robust web applications and exploring cutting-edge technologies. My focus is on building full-stack projects that are both functional and user-friendly. 
+🚀 Software Engineer 1 @ GeekyAnts  
+🌐 Full-Stack Web Developer | Next.js Specialist | Backend & AI Integration Focused  
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 About Me
 
-- **Languages**: JavaScript, HTML, CSS.  
-- **Frontend**: NextJs, ReactJs, Redux Toolkit, Bootstrap, Tailwind CSS, ShadcnUI  
-- **Backend**: Node.js, Express.js, Nestjs  
-- **Database**: MongoDB, Mongoose, PostgreSQL
-- **Authentication**: JWT, Bcrypt  
-- **Tools & Other Skills**: Git, Vercel, Socket.io  
+Hi, I’m Neeraj — a full-stack web developer focused on building scalable, production-grade web applications.
 
----
+I specialize in modern web architecture using:
 
-## 📂 Projects
+- ⚡ Next.js (App Router)
+- 🔐 Secure Authentication systems
+- 🗄️ Database design (SQL & NoSQL)
+- 🤖 AI integrations
+- 🏗️ Clean backend architecture
+- 🌍 Deployment & production readiness
 
-### 🎮 [Matrix Memory Game]
-- A fun memory game built with **React**.
-- Features dynamic grid generation and responsive design.
-
-### ✅ [Todo App]
-- MERN stack app with user authentication using **JWT** and **Bcrypt**.
-- Deployed on **Vercel**, includes Redux Toolkit for state management.
-
-### 💬 [Real-Time Chat App]
-- Real-time messaging built with **Socket.io**.
-- Features secure JWT-based user authentication.
-
-### ✅ [ProjectGestionando] - Task Management Web App
-- MERN stack app with user authentication using **JWT** and **Bcrypt**.
-- Deployed on **Vercel**, includes Redux Toolkit for state management.
----
-
-## 🎮 Gaming Hobby
-
-- Platforms: **PC, Xbox, PS5**  
-- Collection: Thousands of games, including most new releases.  
-- Interests: Sharing gaming insights, reviews, and live streaming.  
+I approach development with a **system design mindset**, not just feature implementation.
 
 ---
 
-## 📫 Contact Me
+# 🧠 Core Focus
 
-- **Email**: neeraj8123@gmail.com
-- **LinkedIn**:(https://www.linkedin.com/in/neeraj-sharma-13610716a/)  
+- Full-Stack Web Development  
+- Scalable Backend Architecture  
+- Authentication & Authorization Systems  
+- Database Design & Optimization  
+- AI-powered Features  
+- Performance & Web Fundamentals  
+- Network-level Understanding of Web Systems  
 
 ---
 
-⭐️ *Feel free to explore my repositories and star any project that you find interesting. Let's connect and build amazing things together!*  
+# 🛠️ Tech Stack
+
+## 🧩 Languages
+- JavaScript (ES6+)  
+- TypeScript  
+- SQL  
+- HTML5  
+- CSS3  
+
+---
+
+## 🎨 Frontend
+- Next.js (App Router, SSR, SSG, Server Components)  
+- React.js  
+- Redux Toolkit  
+- React Hook Form + Zod  
+- Tailwind CSS  
+- Shadcn/ui  
+- Bootstrap  
+
+---
+
+## ⚙️ Backend
+- Node.js  
+- Express.js  
+- NestJS  
+- REST API Architecture  
+- Background Job & Queue-based Workflows  
+- Content Moderation Pipelines  
+
+---
+
+## 🗄️ Databases
+- MongoDB + Mongoose  
+- PostgreSQL  
+- Prisma ORM  
+- SQLite (for development & prototyping)  
+
+---
+
+## 🔐 Authentication & Security
+- Auth.js (NextAuth)  
+- JWT (Access & Refresh Token Patterns)  
+- Bcrypt  
+- HttpOnly Cookies  
+- OAuth (Google / GitHub)  
+- Role-Based Access Control (RBAC)  
+- Rate Limiting Strategies  
+
+---
+
+## 🤖 AI & Integrations
+- OpenAI API Integration  
+- Sentiment Analysis Pipelines  
+- AI-powered Feedback Systems  
+- Content Moderation Workflows  
+- Prompt Engineering Fundamentals  
+
+---
+
+## 🌐 Web & Network Concepts
+
+- HTTP / HTTPS lifecycle  
+- Request–Response cycle  
+- REST principles  
+- CORS configuration  
+- Cookies vs Local Storage  
+- DNS basics  
+- Reverse proxy concepts  
+- Serverless limitations (e.g., WebSockets on Vercel)  
+- Deployment architecture awareness  
+
+---
+
+# 🚀 Projects
+
+## 🧠 OpenLoop Pro – Rich Anonymous Feedback Platform
+- Built using Next.js + Prisma + SQLite  
+- Dynamic public form system using slugs  
+- Sentiment analysis integration  
+- Authentication via Auth.js  
+- Form ownership validation  
+- Response analytics dashboard  
+- CSV & PDF export  
+
+---
+
+## 📝 MERN Todo App
+- Full authentication using JWT & Bcrypt  
+- Redux Toolkit for state management  
+- Protected routes architecture  
+- Deployed on Vercel  
+- Clean REST API structure  
+
+---
+
+## 💬 Real-Time Chat Application
+- Socket.io-based real-time messaging  
+- JWT-secured communication  
+- Learned serverless deployment limitations  
+- Event-driven architecture understanding  
+
+---
+
+## 🎮 Matrix Memory Game
+- Built with React  
+- Dynamic grid generation  
+- State-driven game logic  
+
+---
+
+## 🛠️ Workflow Automation Tool (Internal)
+- Custom structured form UI  
+- Automated submission pipeline  
+- Backend storage for reusable templates  
+- Reduced manual errors in support workflow  
+
+---
+
+# 📈 Currently Learning
+
+- Advanced Next.js architecture  
+- PostgreSQL performance optimization  
+- AI Engineering workflows  
+- Background workers & distributed systems basics  
+- Scalable system design  
+
+---
+
+# 🎮 Beyond Coding
+
+- Passionate gamer (PC, Xbox, PS5)  
+- Competitive mindset  
+- Exploring gaming + tech content creation  
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: neeraj8123@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/neeraj-sharma-13610716a/  
+
+---
+
+⭐ If you're building scalable web systems or AI-powered products, let’s connect and collaborate.
