@@ -1,181 +1,123 @@
-# 💻 Neeraj Sharma
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
+<h3 align="center">
+  🚀 Software Engineer 1 @ GeekyAnts | 🌐 Full-Stack Web Developer
+</h3>
 
-🚀 Software Engineer 1 @ GeekyAnts  
-🌐 Full-Stack Web Developer | Next.js and Nest.js Specialist | Backend & AI Integration Focused  
-
----
-
-## 👋 About Me
-
-Hi, I’m Neeraj — a full-stack web developer focused on building scalable, production-grade web applications.
-
-I specialize in modern web architecture using:
-
-- ⚡ Next.js (App Router)
-- 🔐 Secure Authentication systems
-- 🗄️ Database design (SQL & NoSQL)
-- 🤖 AI integrations
-- 🏗️ Clean backend architecture
-- 🌍 Deployment & production readiness
-
-I approach development with a **system design mindset**, not just feature implementation.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Next.js+%7C+MERN+Stack+Developer;Backend+%26+System+Design+Focused;AI+Integration+Enthusiast;Building+Scalable+Web+Applications" />
+</p>
 
 ---
 
-# 🧠 Core Focus
+## 👨‍💻 About Me
 
-- Full-Stack Web Development  
-- Scalable Backend Architecture  
-- Authentication & Authorization Systems  
-- Database Design & Optimization  
-- AI-powered Features  
-- Performance & Web Fundamentals  
-- Network-level Understanding of Web Systems  
+- 🚀 Software Engineer 1 at **GeekyAnts**
+- 🌐 Focused on scalable **Full-Stack Web Development**
+- 🧠 Strong interest in **System Design & Backend Architecture**
+- 🤖 Building AI-powered web features
+- 📈 Continuously improving performance & production readiness
 
 ---
 
 # 🛠️ Tech Stack
 
 ## 🧩 Languages
-- JavaScript (ES6+)  
-- TypeScript  
-- SQL  
-- HTML5  
-- CSS3  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql)
+![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
 ---
 
 ## 🎨 Frontend
-- Next.js (App Router, SSR, SSG, Server Components)  
-- React.js  
-- Redux Toolkit  
-- React Hook Form + Zod  
-- Tailwind CSS  
-- Shadcn/ui  
-- Bootstrap  
+
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-purple?style=for-the-badge&logo=redux)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-black?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 
 ---
 
 ## ⚙️ Backend
-- Node.js  
-- Express.js  
-- NestJS  
-- REST API Architecture  
-- Background Job & Queue-based Workflows  
-- Content Moderation Pipelines  
+
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs)
 
 ---
 
-## 🗄️ Databases
-- MongoDB + Mongoose  
-- PostgreSQL  
-- Prisma ORM  
-- SQLite (for development & prototyping)  
+## 🗄️ Databases & ORM
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
 
 ---
 
 ## 🔐 Authentication & Security
-- Auth.js (NextAuth)  
-- JWT (Access & Refresh Token Patterns)  
-- Bcrypt  
-- HttpOnly Cookies  
-- OAuth (Google / GitHub)  
-- Role-Based Access Control (RBAC)  
-- Rate Limiting Strategies  
+
+![Auth.js](https://img.shields.io/badge/Auth.js-black?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![OAuth](https://img.shields.io/badge/OAuth-blue?style=for-the-badge)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-grey?style=for-the-badge)
 
 ---
 
 ## 🤖 AI & Integrations
-- OpenAI API Integration  
-- Sentiment Analysis Pipelines  
-- AI-powered Feedback Systems  
-- Content Moderation Workflows  
-- Prompt Engineering Fundamentals  
+
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment_Analysis-purple?style=for-the-badge)
 
 ---
 
-## 🌐 Web & Network Concepts
+# 🌐 Web & Network Concepts
 
 - HTTP / HTTPS lifecycle  
-- Request–Response cycle  
-- REST principles  
-- CORS configuration  
+- REST APIs  
+- CORS  
 - Cookies vs Local Storage  
 - DNS basics  
-- Reverse proxy concepts  
-- Serverless limitations (e.g., WebSockets on Vercel)  
-- Deployment architecture awareness  
+- Reverse Proxy fundamentals  
+- Serverless architecture limitations  
+- Deployment pipelines  
 
 ---
 
 # 🚀 Projects
 
-## 🧠 OpenLoop Pro – Rich Anonymous Feedback Platform
-- Built using Next.js + Prisma + SQLite  
-- Dynamic public form system using slugs  
-- Sentiment analysis integration  
-- Authentication via Auth.js  
-- Form ownership validation  
-- Response analytics dashboard  
-- CSV & PDF export  
+### 🧠 OpenLoop Pro – Anonymous Feedback Platform
+Next.js + Prisma + SQLite + Auth.js + AI sentiment integration
+
+### 📝 MERN Todo App
+JWT Authentication + Redux Toolkit + REST APIs
+
+### 💬 Real-Time Chat App
+Socket.io + Event-driven architecture + JWT security
+
+### 🎮 Matrix Memory Game
+Dynamic grid-based game built with React
 
 ---
 
-## 📝 MERN Todo App
-- Full authentication using JWT & Bcrypt  
-- Redux Toolkit for state management  
-- Protected routes architecture  
-- Deployed on Vercel  
-- Clean REST API structure  
+# 📊 GitHub Stats
 
----
-
-## 💬 Real-Time Chat Application
-- Socket.io-based real-time messaging  
-- JWT-secured communication  
-- Learned serverless deployment limitations  
-- Event-driven architecture understanding  
-
----
-
-## 🎮 Matrix Memory Game
-- Built with React  
-- Dynamic grid generation  
-- State-driven game logic  
-
----
-
-## 🛠️ Workflow Automation Tool (Internal)
-- Custom structured form UI  
-- Automated submission pipeline  
-- Backend storage for reusable templates  
-- Reduced manual errors in support workflow  
-
----
-
-# 📈 Currently Learning
-
-- Advanced Next.js architecture  
-- PostgreSQL performance optimization  
-- AI Engineering workflows  
-- Background workers & distributed systems basics  
-- Scalable system design  
-
----
-
-# 🎮 Beyond Coding
-
-- Passionate gamer (PC, Xbox, PS5)  
-- Competitive mindset  
-- Exploring gaming + tech content creation  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NeerajNero&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: neeraj8123@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/neeraj-sharma-13610716a/  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neeraj_Sharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neeraj-sharma-13610716a/)
+[![Email](https://img.shields.io/badge/Email-neeraj8123@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:neeraj8123@gmail.com)
 
 ---
 
-⭐ If you're building scalable web systems or AI-powered products, let’s connect and collaborate.
+⭐ If you're building scalable web systems or AI-powered products, let’s connect!
