@@ -1,7 +1,7 @@
 # 💻 Neeraj Sharma
 
 🚀 Software Engineer 1 @ GeekyAnts  
-🌐 Full-Stack Web Developer | Next.js Specialist | Backend & AI Integration Focused  
+🌐 Full-Stack Web Developer | Next.js and Nest.js Specialist | Backend & AI Integration Focused  
 
 ---
 
