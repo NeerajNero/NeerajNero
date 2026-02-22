@@ -103,6 +103,12 @@ Socket.io + Event-driven architecture + JWT security
 ### 🎮 Matrix Memory Game
 Dynamic grid-based game built with React
 
+### Open-Source Video Streaming platform
+Video streaming platform - Nestjs - Nextjs - Tanstack Query
+
+### Social Media platfor - Dating style
+Social Media Platform - Nestjs - Nextjs
+
 ---
 
 # 📊 GitHub Stats
