@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
 <h3 align="center">
-  🚀 Software Engineer 1 @ GeekyAnts | 🌐 Full-Stack Web Developer
+  🚀 Software Engineer 1 @ GeekyAnts | 🌐 Full-Stack Web Developer 
 </h3>
 
 <p align="center">
@@ -107,7 +107,7 @@ Dynamic grid-based game built with React
 Video streaming platform - Nestjs - Nextjs - Tanstack Query
 
 ### 📝 Social Media platform - Dating style
-Social Media Platform - Nestjs - Nextjs
+Social Media Platform - Nestjs - Nextjs - AI Content Moderation (OpenAI and AWS Rekognition)
 
 ---
 
