@@ -101,7 +101,7 @@ JWT Authentication + Redux Toolkit + REST APIs
 Socket.io + Event-driven architecture + JWT security
 
 ### 🎮 Matrix Memory Game
-Dynamic grid-based game built with React
+Dynamic grid-based game built with JS
 
 ### 🧠 Open-Source Video Streaming platform
 Video streaming platform - Nestjs - Nextjs - Tanstack Query
