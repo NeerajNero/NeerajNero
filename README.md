@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Software Engineer 1 at **GeekyAnts**
+- 🚀 Software Engineer 2 at **GeekyAnts**
 - 🌐 Focused on scalable **Full-Stack Web Development**
 - 🧠 Strong interest in **System Design & Backend Architecture**
 - 🤖 Building AI-powered web features
