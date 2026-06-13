@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
 <h3 align="center">
-  🚀 Software Engineer 1 @ GeekyAnts | 🌐 Full-Stack Web Developer 
+  🚀 Software Engineer 2 @ GeekyAnts | 🌐 Full-Stack Web Developer 
 </h3>
 
 <p align="center">
