@@ -1,113 +1,210 @@
 <!-- Animated Header -->
+
 <h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
+
 <h3 align="center">
-  🚀 Software Engineer 2 @ GeekyAnts | 🌐 Full-Stack Web Developer 
+  🚀 Software Engineer 2 | 🌐 Full-Stack Web Developer | ⚙️ Backend & System Design
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Next.js+%7C+MERN+Stack+Developer;Backend+%26+System+Design+Focused;AI+Integration+Enthusiast;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full-Stack+TypeScript+Developer;React+%7C+Next.js+%7C+NestJS;Hasura+%7C+GraphQL+%7C+PostgreSQL;Backend+Architecture+%26+System+Design;Building+Scalable+Production-Ready+Systems" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Software Engineer 2 at **GeekyAnts**
-- 🌐 Focused on scalable **Full-Stack Web Development**
-- 🧠 Strong interest in **System Design & Backend Architecture**
-- 🤖 Building AI-powered web features
-- 📈 Continuously improving performance & production readiness
+* 🚀 **Software Engineer 2** focused on Full-Stack Web Development
+* 🧩 Building applications with **TypeScript, React, Next.js & NestJS**
+* ⚙️ Interested in **Backend Architecture, System Design & Scalable APIs**
+* 🗄️ Working with **PostgreSQL, MongoDB, Hasura, Prisma & Drizzle ORM**
+* 🔗 Building data-driven applications using **REST, GraphQL & event-driven patterns**
+* 🤖 Integrating **AI-powered features** into real-world web applications
+* ☁️ Experience with **AWS services, background jobs, queues & cloud-based workflows**
+* 📈 Focused on writing maintainable, observable and production-ready systems
 
 ---
 
 # 🛠️ Tech Stack
 
-## 🧩 Languages
+## 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql)
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge\&logo=postgresql)
+![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
 
 ---
 
 ## 🎨 Frontend
 
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-purple?style=for-the-badge&logo=redux)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=nextdotjs)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-purple?style=for-the-badge\&logo=redux)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge\&logo=reactquery)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwindcss)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-black?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Backend & APIs
 
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-grey?style=for-the-badge\&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge\&logo=nestjs)
+![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge\&logo=hasura)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ---
 
 ## 🗄️ Databases & ORM
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge\&logo=redis)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-black?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma)
+![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge\&logo=sqlite)
 
 ---
 
 ## 🔐 Authentication & Security
 
 ![Auth.js](https://img.shields.io/badge/Auth.js-black?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
 ![OAuth](https://img.shields.io/badge/OAuth-blue?style=for-the-badge)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-grey?style=for-the-badge)
+
+* Authentication & authorization
+* JWT-based security
+* OAuth flows
+* Role-based access control
+* Cookies & session management
+* CORS & API security fundamentals
+
+---
+
+## ☁️ Cloud, DevOps & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+
+### AWS & Infrastructure
+
+* AWS Lambda
+* Amazon SQS
+* AWS Rekognition
+* Background processing & asynchronous workflows
+* Dockerized applications
+* Deployment & production environment basics
+
+---
+
+## 🔄 Background Jobs & Event-Driven Systems
+
+![BullMQ](https://img.shields.io/badge/BullMQ-red?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge\&logo=redis)
+
+* Background job processing
+* Queues & workers
+* Event-driven architecture
+* Async workflows
+* Retry & failure handling
+* Redis-backed job processing
 
 ---
 
 ## 🤖 AI & Integrations
 
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![Sentiment Analysis](https://img.shields.io/badge/Sentiment_Analysis-purple?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge\&logo=openai)
+
+* OpenAI API integration
+* AI-powered application features
+* Sentiment analysis
+* AI-assisted content workflows
+* AWS Rekognition integration
+* AI + backend processing pipelines
 
 ---
 
-# 🌐 Web & Network Concepts
+## 🧰 Engineering Tools
 
-- HTTP / HTTPS lifecycle  
-- REST APIs  
-- CORS  
-- Cookies vs Local Storage  
-- DNS basics  
-- Reverse Proxy fundamentals  
-- Serverless architecture limitations  
-- Deployment pipelines  
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge\&logo=openapi)
+![Winston](https://img.shields.io/badge/Winston-Logger-black?style=for-the-badge)
+
+* Swagger / OpenAPI
+* API documentation
+* Generated API SDKs
+* Structured application logging
+* Database migrations
+* Service-layer architecture
+* Repository / modular backend patterns
 
 ---
 
-# 🚀 Projects
+# 🌐 Engineering Concepts
 
-### 🧠 OpenLoop Pro – Anonymous Feedback Platform
-Next.js + Prisma + SQLite + Auth.js + AI sentiment integration
+* HTTP / HTTPS lifecycle
+* REST APIs
+* GraphQL
+* CORS
+* Cookies vs Local Storage
+* Authentication & Authorization
+* DNS fundamentals
+* Reverse Proxy concepts
+* Serverless architecture
+* Event-driven architecture
+* Background job processing
+* Database indexing & query optimization
+* API design & scalability
+* System Design fundamentals
+* Production readiness & observability
 
-### 📝 MERN Todo App
-JWT Authentication + Redux Toolkit + REST APIs
+---
 
-### 💬 Real-Time Chat App
-Socket.io + Event-driven architecture + JWT security
+# 🚀 Featured Projects
+
+### 🧠 OpenLoop Pro — Anonymous Feedback Platform
+
+**Next.js • Prisma • SQLite • Auth.js • OpenAI**
+
+Anonymous feedback platform with authentication and AI-powered sentiment analysis.
+
+### 📝 MERN Todo Application
+
+**MongoDB • Express • React • Node.js • Redux Toolkit • JWT**
+
+Full-stack task management application with authentication, protected APIs and centralized state management.
+
+### 💬 Real-Time Chat Application
+
+**Node.js • Express • Socket.io • JWT**
+
+Real-time messaging application using WebSocket-based communication and event-driven architecture.
 
 ### 🎮 Matrix Memory Game
-Dynamic grid-based game built with JS
 
-### 🧠 Open-Source Video Streaming platform
-Video streaming platform - Nestjs - Nextjs - Tanstack Query
+**JavaScript • HTML • CSS**
 
-### 📝 Social Media platform - Dating style
-Social Media Platform - Nestjs - Nextjs - AI Content Moderation (OpenAI and AWS Rekognition)
+Dynamic grid-based memory game focused on state management, interactions and game logic.
+
+### 🎥 Open-Source Video Streaming Platform
+
+**NestJS • Next.js • PostgreSQL • TanStack Query**
+
+Video streaming platform built with a modular backend, modern React frontend and server-state management.
+
+### 💕 Social Media / Dating Platform
+
+**NestJS • Next.js • PostgreSQL • OpenAI • AWS Rekognition**
+
+Social platform featuring AI-assisted content moderation and media-processing workflows using OpenAI and AWS services.
 
 ---
 
@@ -121,9 +218,18 @@ Social Media Platform - Nestjs - Nextjs - AI Content Moderation (OpenAI and AWS 
 
 # 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neeraj_Sharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neeraj-sharma-13610716a/)
-[![Email](https://img.shields.io/badge/Email-neeraj8123@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:neeraj8123@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/neeraj-sharma-13610716a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Neeraj_Sharma-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:neeraj8123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-neeraj8123@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-⭐ If you're building scalable web systems or AI-powered products, let’s connect!
+<p align="center">
+  ⭐ Building scalable web systems, backend architectures and AI-powered products.
+</p>
